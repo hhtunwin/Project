@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Menu</title>
+</head>
+<body bgcolor=#66FFFF>
+
+	<h1>Menu</h1>
+
+<ol type="1">
+
+	<li><a href="mac.html" target="view">MAC_BOOK</a>
+	<li><a href="">DELL</a>
+	<li><a href="">HP</a>
+	<li><a href="">LENOVO</a>
+	<li><a href="">ASUS</a>		
+	<li><a href="">ACER</a>
+	<li><a href="">MSI</a>
+
+</ol>
+<br>
+<img src="lp.jpeg">
+<br>
+<br>
+	<a href=""><h2>***Beginner😉️Guide***</h2></a>
+</body>
+</html>

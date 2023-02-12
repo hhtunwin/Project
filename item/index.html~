@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+</head>
+<frameset rows="15%,*">
+
+	<frame src="title.html">
+
+	<frameset cols="25%,*">
+		<frame src="Menu.html">
+		<frame src="view.html" name="view">
+	</frameset>
+</frameset>
+</html>

@@ -1,0 +1,68 @@
+body{
+	background-color: #EEEEEE ;
+}
+.logo{
+	height: 150px;
+	margin-left: 500px;
+}
+.item{
+	margin-left: 50px;
+	margin-top: 50px;
+	width: 20%;
+	height: 370px;
+	float: left;
+	color: #581845;
+	border: 0.1px solid;
+	/*border-color: violet;*/
+	border-radius: 6px;
+}
+.item:hover{
+	/*border: 6px;*/
+	/*margin-top: 10px;*/
+	box-shadow: 5px 6px darkgray;
+	background-color: rgba(1, 1, 1, 0.05);
+	/*margin-right: 2px;*/
+}
+.item:active{
+	transform: translateY(15px);
+	width: 18%;
+	height: 340px;
+	margin-left: 60px;
+	margin-right: 17.0px;
+	font-size: 15px;
+	/*border:0;*/
+}
+.bkl{
+	clear: both;
+}
+.hm{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+input{
+	color: #fff;
+	width: 100px;
+	line-height: 200%;
+	border-radius: 50px;
+	background-color: black;
+	box-shadow: 0 7px #999;
+}
+input:active{
+	box-shadow: 0 4px #666;
+	transform: translateY(4px);
+}
+.lap{
+	width: 250px;
+	height: 150px;
+}
+.item:active .lap{
+	width: 230px;
+	height: 140px;
+}
+.model{
+	height: 40px;
+	color: white;
+	background-color: #26376A;
+	text-align: center;
+}

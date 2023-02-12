@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>View</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+	p{
+	font-size: 50px;
+}
+	</style>
+</head>
+<body bgcolor="skyblue">
+	<p align="middle-center">View</p>
+</body>
+</html>
